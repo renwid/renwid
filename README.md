@@ -1,5 +1,5 @@
 <div align="center">
 
-[![Renzo's GitHub stats](https://github-readme-stats.vercel.app/api?username=renwid&show_icons=true&icon_color=586069&text_color=586069&bg_color=fff&line_height=30&hide_title=true&title_color=0366d6)](https://github.com/anuraghazra/github-readme-stats)
+[![Renzo's GitHub stats](https://gist.githubusercontent.com/renwid/055f877b0885801505d45d229bb4e71a/raw/f7b2bd6dad9209d8fb618396ad850d364c4cb2e9/tenor.gif)
 
 </div>
